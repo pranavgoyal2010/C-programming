@@ -58,6 +58,7 @@ Dictionary consists of key value pairs. The source code for dictionary is dictio
 **8. Min Heaps**
 
 Heaps is created with the help of array list. Hence object file of array list (array_list.o) is compiled with the object file of main function (heapM.o and rHeapM.o) used for testing the heap functionality. The executable gives the following results.
+
 <img width="328" alt="image" src="https://user-images.githubusercontent.com/93623710/233704856-a520e1bc-51db-4cfa-937a-48c191d73833.png">
 
 <img width="336" alt="image" src="https://user-images.githubusercontent.com/93623710/233704988-1e259e1c-ae9d-40e9-8d1b-97f837964fd1.png">
